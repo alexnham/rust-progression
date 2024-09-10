@@ -1,0 +1,1 @@
+/Users/alexnham/Desktop/cs/Rust/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.1.\ Defining\ and\ Instantiating\ Structs/structs/target/debug/structs: /Users/alexnham/Desktop/cs/Rust/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.1.\ Defining\ and\ Instantiating\ Structs/structs/src/main.rs

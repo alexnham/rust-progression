@@ -1,0 +1,1 @@
+/Users/alexnham/Desktop/cs/Rust/4.\ Understanding\ Ownership/4.3.\ The\ Slice\ Type/slice/target/debug/slice: /Users/alexnham/Desktop/cs/Rust/4.\ Understanding\ Ownership/4.3.\ The\ Slice\ Type/slice/src/main.rs

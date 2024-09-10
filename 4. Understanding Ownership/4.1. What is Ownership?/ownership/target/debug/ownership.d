@@ -1,0 +1,1 @@
+/Users/alexnham/Desktop/cs/Rust/4.\ Understanding\ Ownership/4.1.\ What\ is\ Ownership?/ownership/target/debug/ownership: /Users/alexnham/Desktop/cs/Rust/4.\ Understanding\ Ownership/4.1.\ What\ is\ Ownership?/ownership/src/main.rs

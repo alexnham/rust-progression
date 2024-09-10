@@ -1,0 +1,11 @@
+/Users/alexnham/Desktop/cs/Rust/2. Programming a Guessing Game/guessing_game/target/debug/deps/libquote-2a283dc3fce6aebe.rmeta: /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/alexnham/Desktop/cs/Rust/2. Programming a Guessing Game/guessing_game/target/debug/deps/quote-2a283dc3fce6aebe.d: /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs:
+/Users/alexnham/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs:
